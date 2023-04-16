@@ -1,0 +1,508 @@
+# depslib dependency file v1.0
+1681482646 source:c:\bme\prog2\dungeon_adventure\init.cpp
+	<SDL2/SDL.h>
+	"init.h"
+	<iostream>
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\begin_code.h
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\close_code.h
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1583894369 c:\program files\codeblocks\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1681482626 c:\bme\prog2\dungeon_adventure\init.h
+	"defs.h"
+	<iostream>
+	"app.h"
+
+1681655041 c:\bme\prog2\dungeon_adventure\defs.h
+
+1681562933 c:\bme\prog2\dungeon_adventure\app.h
+	"defs.h"
+	<SDL2/SDL.h>
+
+1681562493 source:c:\bme\prog2\dungeon_adventure\input.cpp
+	"input.h"
+	<SDL2/SDL.h>
+
+1681562293 c:\bme\prog2\dungeon_adventure\input.h
+	"defs.h"
+	"app.h"
+
+1681591694 source:c:\bme\prog2\dungeon_adventure\main.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	"DungeonGenerator.h"
+	"Vector2D.h"
+	"draw.h"
+	"map.h"
+	"Game.h"
+
+1681654826 c:\bme\prog2\dungeon_adventure\dungeongenerator.h
+	<iostream>
+	"Vector2D.h"
+	"Algorithm.h"
+	"defs.h"
+
+1681633926 c:\bme\prog2\dungeon_adventure\vector2d.h
+	<iostream>
+
+1681589894 c:\bme\prog2\dungeon_adventure\algorithm.h
+	<vector>
+	<iostream>
+	"defs.h"
+	"Vector2D.h"
+
+1681650338 c:\bme\prog2\dungeon_adventure\draw.h
+	"Vector2D.h"
+	"Game.h"
+	<vector>
+
+1681636664 c:\bme\prog2\dungeon_adventure\map.h
+	<vector>
+	"Vector2D.h"
+	"DungeonGenerator.h"
+	"WallGenerator.h"
+
+1681650472 source:c:\bme\prog2\dungeon_adventure\draw.cpp
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	"Vector2D.h"
+	"draw.h"
+
+1561870398 c:\program files\codeblocks\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1681589753 c:\bme\prog2\dungeon_adventure\wallgenerator.h
+	<vector>
+	"Vector2D.h"
+	"Algorithm.h"
+
+1681566327 c:\bme\prog2\dungeon_adventure\entity.h
+	<SDL2/SDL.h>
+	"draw.h"
+	"defs.h"
+	"app.h"
+
+1602225681 c:\program files\codeblocks\mingw\include\sdl2
+
+1681653971 c:\bme\prog2\dungeon_adventure\game.h
+	<SDL2/SDL.h>
+	"map.h"
+	<vector>
+	"ECS.h"
+
+1681655074 source:c:\bme\prog2\dungeon_adventure\game.cpp
+	"Game.h"
+	"GameObject.h"
+	"ECS.h"
+	"Vector2D.h"
+	"Components.h"
+	"Collision.h"
+	<iostream>
+
+1681567877 c:\bme\prog2\dungeon_adventure\gameobject.h
+	<SDL2/SDL.h>
+
+1681567867 source:c:\bme\prog2\dungeon_adventure\gameobject.cpp
+	"GameObject.h"
+	"draw.h"
+
+1681593527 c:\bme\prog2\dungeon_adventure\ecs.h
+	<iostream>
+	<vector>
+	<memory>
+	<algorithm>
+	<bitset>
+	<array>
+
+1681580143 c:\bme\prog2\dungeon_adventure\components.h
+	"ECS.h"
+	"PositionComponent.h"
+	"SpriteComponent.h"
+	"Collider.h"
+	"KeyboardController.h"
+
+1681654849 c:\bme\prog2\dungeon_adventure\positioncomponent.h
+	"Vector2D.h"
+
+1681653777 c:\bme\prog2\dungeon_adventure\spritecomponent.h
+	"Components.h"
+	"draw.h"
+	<SDL2/SDL.h>
+	"Animation.h"
+	<map>
+
+1681650663 c:\bme\prog2\dungeon_adventure\keyboardcontroller.h
+	"Components.h"
+
+1681592744 c:\bme\prog2\dungeon_adventure\collider.h
+	<string>
+	<SDL2/SDL.h>
+
+1681652408 c:\bme\prog2\dungeon_adventure\collision.h
+	<SDL2/SDL.h>
+	"Collider.h"
+	"draw.h"
+
+1681589871 source:c:\bme\prog2\dungeon_adventure\algorithm.cpp
+	"Algorithm.h"
+
+1681648447 c:\bme\prog2\dungeon_adventure\animation.h
+	<map>
+	<string>
+	<SDL2/SDL.h>
+	"draw.h"
+

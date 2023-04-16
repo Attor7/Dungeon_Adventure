@@ -1,0 +1,12 @@
+#ifndef DEFS_H_INCLUDED
+#define DEFS_H_INCLUDED
+
+#define FLOOR_WIDHT 48
+#define FLOOR_HEIGHT 48
+#define SCREEN_HEIGHT 1080
+#define SCREEN_WIDTH 1920
+
+#define FACING_LEFT 0
+#define FACING_RIGHT 1
+
+#endif // DEFS_H_INCLUDED
